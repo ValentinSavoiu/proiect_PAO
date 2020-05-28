@@ -1,0 +1,110 @@
+exit_with_saving,01:18.7,main
+print_clients,01:37.9,AWT-EventQueue-0
+back_to_menu,01:39.3,AWT-EventQueue-0
+print_employees,01:39.9,AWT-EventQueue-0
+back_to_menu,01:40.7,AWT-EventQueue-0
+print_halls,01:41.4,AWT-EventQueue-0
+back_to_menu,01:42.1,AWT-EventQueue-0
+print_clients,03:09.4,AWT-EventQueue-0
+back_to_menu,03:10.4,AWT-EventQueue-0
+exit_with_saving,07:02.1,main
+print_shows,07:27.9,AWT-EventQueue-0
+back_to_menu,07:33.5,AWT-EventQueue-0
+print_shows,07:34.4,AWT-EventQueue-0
+back_to_menu,07:35.1,AWT-EventQueue-0
+print_employees,07:35.6,AWT-EventQueue-0
+back_to_menu,07:37.9,AWT-EventQueue-0
+print_clients,07:39.2,AWT-EventQueue-0
+back_to_menu,07:43.6,AWT-EventQueue-0
+add_seniority,07:45.2,AWT-EventQueue-0
+back_to_menu,07:46.2,AWT-EventQueue-0
+print_employees,07:49.8,main
+print_shows,08:00.1,AWT-EventQueue-0
+back_to_menu,08:00.9,AWT-EventQueue-0
+exit_with_saving,08:03.6,main
+print_shows,10:01.2,AWT-EventQueue-0
+back_to_menu,10:04.8,AWT-EventQueue-0
+add_seniority,10:05.7,AWT-EventQueue-0
+back_to_menu,10:06.7,AWT-EventQueue-0
+print_halls,10:07.4,AWT-EventQueue-0
+back_to_menu,10:08.3,AWT-EventQueue-0
+print_shows,10:08.8,AWT-EventQueue-0
+back_to_menu,10:09.8,AWT-EventQueue-0
+print_employees,10:10.6,AWT-EventQueue-0
+back_to_menu,10:11.6,AWT-EventQueue-0
+print_clients,10:12.3,AWT-EventQueue-0
+back_to_menu,10:13.9,AWT-EventQueue-0
+print_shows,10:14.4,AWT-EventQueue-0
+back_to_menu,10:20.0,AWT-EventQueue-0
+add_seniority,10:23.8,AWT-EventQueue-0
+back_to_menu,10:25.6,AWT-EventQueue-0
+exit,10:26.6,AWT-EventQueue-0
+exit_without_saving,2020-05-28 12:14:09.12,main
+print_clients,2020-05-28 12:14:20.763,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:14:23.721,AWT-EventQueue-0
+print_shows,2020-05-28 12:14:26.624,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:14:31.06,AWT-EventQueue-0
+add_show,2020-05-28 12:14:47.919,main
+add_show,2020-05-28 12:15:02.996,main
+print_halls,2020-05-28 12:15:06.618,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:15:08.307,AWT-EventQueue-0
+print_shows,2020-05-28 12:15:08.814,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:15:19.161,AWT-EventQueue-0
+print_shows,2020-05-28 12:17:12.259,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:17:14.187,AWT-EventQueue-0
+exit,2020-05-28 12:17:15.508,AWT-EventQueue-0
+exit_with_saving,2020-05-28 12:17:16.894,main
+print_shows,2020-05-28 12:17:44.962,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:17:52.141,AWT-EventQueue-0
+print_halls,2020-05-28 12:17:53.628,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:17:54.517,AWT-EventQueue-0
+add_seniority,2020-05-28 12:17:58.941,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:18:10.61,AWT-EventQueue-0
+exit,2020-05-28 12:18:11.425,AWT-EventQueue-0
+exit_with_saving,2020-05-28 12:18:12.823,main
+print_halls,2020-05-28 12:18:51.236,AWT-EventQueue-0
+print_shows,2020-05-28 12:19:25.349,AWT-EventQueue-0
+print_shows,2020-05-28 12:19:39.173,AWT-EventQueue-0
+print_shows,2020-05-28 12:21:25.5,AWT-EventQueue-0
+print_shows,2020-05-28 12:22:13.14,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:22:15.023,AWT-EventQueue-0
+exit,2020-05-28 12:22:16.009,AWT-EventQueue-0
+exit_with_saving,2020-05-28 12:22:57.029,main
+print_shows,2020-05-28 12:23:08.469,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:23:10.405,AWT-EventQueue-0
+exit,2020-05-28 12:23:11.451,AWT-EventQueue-0
+print_shows,2020-05-28 12:23:36.331,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:23:43.123,AWT-EventQueue-0
+exit,2020-05-28 12:23:44.391,AWT-EventQueue-0
+exit_with_saving,2020-05-28 12:25:01.025,main
+print_shows,2020-05-28 12:25:10.517,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:25:18.367,AWT-EventQueue-0
+exit,2020-05-28 12:25:19.584,AWT-EventQueue-0
+print_shows,2020-05-28 12:26:05.847,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:26:12.998,AWT-EventQueue-0
+print_employees,2020-05-28 12:26:13.922,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:26:16.47,AWT-EventQueue-0
+print_halls,2020-05-28 12:26:17.102,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:26:18.061,AWT-EventQueue-0
+add_seniority,2020-05-28 12:26:19.003,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:26:20.146,AWT-EventQueue-0
+print_shows,2020-05-28 12:28:10.775,AWT-EventQueue-0
+print_halls,2020-05-28 12:28:38.216,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:28:40.442,AWT-EventQueue-0
+print_shows,2020-05-28 12:28:41.211,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:28:43.513,AWT-EventQueue-0
+print_employees,2020-05-28 12:28:44.388,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:28:45.878,AWT-EventQueue-0
+add_seniority,2020-05-28 12:28:46.896,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:28:48.731,AWT-EventQueue-0
+print_clients,2020-05-28 12:28:49.863,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:28:50.609,AWT-EventQueue-0
+print_shows,2020-05-28 12:28:51.107,AWT-EventQueue-0
+back_to_menu,2020-05-28 12:28:51.904,AWT-EventQueue-0
+exit,2020-05-28 12:28:52.714,AWT-EventQueue-0
+exit_with_saving,2020-05-28 12:28:54.504,main
+exit,2020-05-28 12:30:26.809,AWT-EventQueue-0
+print_clients,2020-05-28 12:30:39.66,main
+print_employees,2020-05-28 12:30:44.461,main
+print_shows,2020-05-28 12:30:51.811,main
+exit_without_saving,2020-05-28 12:31:04.283,main
