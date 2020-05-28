@@ -6,4 +6,4 @@ Partea 3 a proiectului PAO
 
 -- Tested using mysql, cannot guarantee compatibility with other types of database servers
 
--- Intellij will give 'unrecognized statement' on all create table statements. They work, and I am confused as to why IntelliJ does that.
+-- Intellij will give 'unrecognized statement' on all create table statements. Code works, and I am confused as to why IntelliJ does that.
